@@ -87,7 +87,7 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=burakmertkose&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=000000&bar_color_cover=false" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=burakmertkose&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=ffffff&bar_color_cover=false" /></div>  
 
 <br/>  
 
