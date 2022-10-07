@@ -84,6 +84,11 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=burakmertkose&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
+
+<br/>  
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=burakmertkose&cover_image=true&theme=natemoo-re&show_offline=false&bar_color=000000&bar_color_cover=false" /></div>  
+
 <br/>  
 
 <div align="center">
