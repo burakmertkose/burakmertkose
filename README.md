@@ -86,12 +86,6 @@
 
 <br/>  
 
-
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=burakmertkose&cover_image=true&theme=default&show_offline=false" /></div>  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=burakmertkose&&style=flat-square" align="center" />
 </div>  
