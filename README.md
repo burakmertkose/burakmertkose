@@ -77,18 +77,31 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=burakmertkose&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
- 
+## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=burakmertkose&&style=flat-square" align="center" />
-</div>  
-  
 
-<br/>  
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=burakmertkose&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<div align="center"></div>
-<br />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakmertkose&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=burakmertkose&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=burakmertkose&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+
+</div>
+
 
 ----
